@@ -2,6 +2,7 @@
 A project for automated valve measurement using computer vision techniques
 
 A computer vision-based system for precise measurement of valve components using image processing and feature matching techniques.
+
 **🔧 Features**
 
 **Interactive Measurement Tool:** Click-based interface for manual measurements with real-time preview
