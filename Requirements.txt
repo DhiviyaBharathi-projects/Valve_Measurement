@@ -1,0 +1,19 @@
+# Core dependencies for Valve Measurement System
+opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# Optional dependencies for enhanced functionality
+Pillow>=8.3.0
+scikit-image>=0.18.0
+
+# Development and testing (optional)
+pytest>=6.2.0
+pytest-cov>=2.12.0
+flake8>=3.9.0
+black>=21.0.0
+
+# Documentation (optional)
+sphinx>=4.0.0
+sphinx-rtd-theme>=0.5.0
